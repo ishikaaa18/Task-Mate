@@ -41,5 +41,4 @@ TaskMate is a sleek and responsive task management application built using **Rea
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/taskmate.git
-cd taskmate
+git clone https://github.com/ishikaaa18/Task-Mate.git
