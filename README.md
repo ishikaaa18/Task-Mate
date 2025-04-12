@@ -35,7 +35,7 @@ TaskMate is a sleek and responsive task management application built using **Rea
 
 > *(You can add a screenshot or GIF of your app here)*  
 > Example:  
-> ![TaskMate Screenshot](./screenshot.png)
+> ![TaskMate Screenshot](./Screenshot.png)
 
 ---
 
